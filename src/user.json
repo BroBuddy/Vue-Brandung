@@ -1,0 +1,24 @@
+{
+    "data": {
+        "result": [
+            { "firstName": "Adrian", "surName": "Gaspar", "location": "Köln", "unit": "Max", "dialing": "126" },
+            { "firstName": "Alexander", "surName": "Linn", "location": "Köln", "unit": "Technik", "dialing": "125" },
+            { "firstName": "Alina", "surName": "Mühlenhoff", "location": "Köln", "unit": "Max", "dialing": "134" },
+            { "firstName": "Alina", "surName": "Vollmer", "location": "Köln", "unit": "Michael", "dialing": "127" },
+            { "firstName": "Alina", "surName": "Niemann", "location": "Berlin", "unit": "Niels", "dialing": "136" },
+            { "firstName": "Alois", "surName": "Rietzler", "location": "Berlin", "unit": "Niels", "dialing": "122" },
+            { "firstName": "Alwine", "surName": "Bannikow", "location": "Berlin", "unit": "Niels", "dialing": "119" },
+            { "firstName": "Andrea", "surName": "Löper", "location": "Berlin", "unit": "Niels", "dialing": "123" },
+            { "firstName": "Andreas", "surName": "Ewert", "location": "Köln", "unit": "Max", "dialing": "284" },
+            { "firstName": "Andreas", "surName": "Bannikow", "location": "Berlin", "unit": "Niels", "dialing": "134" },
+            { "firstName": "André", "surName": "Schober", "location": "Köln", "unit": "Michael", "dialing": "136" },
+            { "firstName": "André", "surName": "Wenk", "location": "Berlin", "unit": "Niels", "dialing": "116" },
+            { "firstName": "Anja", "surName": "Meyer", "location": "Berlin", "unit": "Niels", "dialing": "148" },
+            { "firstName": "Andreas", "surName": "Bannikow", "location": "Köln", "unit": "Michael", "dialing": "134" },
+            { "firstName": "Backoffice", "surName": "Mirijam&Joyce", "location": "Berlin", "unit": "brandung", "dialing": "10" },
+            { "firstName": "Benedict", "surName": "Plachta", "location": "Köln", "unit": "Michael", "dialing": "198" },
+            { "firstName": "Björn", "surName": "Herzke", "location": "Berlin", "unit": "Niels", "dialing": "118" },
+            { "firstName": "Boris", "surName": "Funke", "location": "Köln", "unit": "Max", "dialing": "278" }
+        ]
+    }
+}
